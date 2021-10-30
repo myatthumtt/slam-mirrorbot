@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bubbly-trail-330615",
+  "private_key_id": "29185100375df2a2b9740d26c7272af8ca59e25b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoYKlzRlCClh4h\nUz4F6J07TneK4plwvA9EQWXwxS+pBA7Sj8c/Ik4aQ1FhVv3RHnd2TLwf23Yh0SVl\nfgxclACIJAJCG5TjbPpgExNRWWoeLO/IrGJHAFVMxEbrvspFmmdcetmU63yQubkF\naTWEd9gvEv8J1u/jW47TmVltgTZom4LuVN+w+LZ0qxPVfg5bt1ZonmMFEzN4+31d\n2+mgXwSq2t4LdlTH8ZHf3ZsmoNxIw63dD5PhU71f9hj8U3dlDR2favbAZdNNTZvO\nry4Ra7KFrS2aRrXkZribJnrhP88AOoUUE7TbXxo/PBRF/PtNcdAEv18INZKxsQFE\nzgY22RrrAgMBAAECggEAA8XJ38SIwHd7zIqNVM712hxTkil3MqikCiCrZHRzZIZ4\nwCY3wQxg7Gm4HkXRGtxjfnBEG5qfnPmPEvHhQqApgUnKDl0iPhSoNeFEVfBHVmgl\nvzznJTW2s4+gq/hZMKumLgZHb1so+vBbJ7aujxdFISWvaf/TRChxaZnoAD7pTyxG\np5mSv6M45o55aIS68cvOKrYDY1m8aIrxiwoWs+xjaOdhTqZxgR3/X9Xz0Czxgm3E\n9tIe4irQ/1p66LQxS9uSgjvVCw9/229w2+yA5Y4Sd1GaeaRYyPULl13KlujogT+8\ndgRwpeKhndHxnbQVqezCNfZdMpaj/wqj1+KjzOwNEQKBgQDrORJWOv/n8HyhDJ3F\nX/JEQKoRYzm0HfrT2jHJT73g7wmRyEVP6oACKQ7MxoShHszMhjzXrztAj9zLyc9r\nAq3veG6gtsK5iwKobfwij5JE+iC+8okFZgw976qBzOVt2lbDbBQFbaREoWAkhkBo\nLHVUfjMG699uuCaLmXEvbK4FXwKBgQC3QBBn6oFlHUprJl4cv7xuHgU/VTklskkI\nbXuoTC9ycwPjp05H9Su9a4p04dONNoDIsHQnv27BwH/WTPZ8F5pkTRJb8vK35Wwp\n0AoAepE/ap8ElEfmqP3YHR8pkCbghyEI+BuIh3LQhFe+/tR3BhB5GT3l/xNfBtG2\n/W1Z+CZp9QKBgACJ0ubrn6ZSQJbFxp6rB4zscPc1OO6WmvpdJ3wEeLTJF0aEJNR3\n/u8CVQxW7/rGbUWSkRUVS5dsPN8iiRz/lpJTvj0T7gIqtUjZZ5hUp8sMn4KQX4vp\nneGOaN9/Lo8/zq8H0kvo4lVd4TB0NjWG1IXq/AbqB0rjlQMAyOeI4iUVAoGAQPcj\nWdPXX8OMmIQXpVWMNfXKonNSOT0Fi0lVJ4sq3wZLgK/VnskaYqL3iQxudYe3DG8S\nHu1NFL9sEstiLwgnIhv4wERXLD7Xo9MvWJAbYkIocfUnsGyE4dMhMxj5z2vYmFdt\nW2+5kpb4jKvHIxMxT91VBm7xrSS7wIYD+HtzEukCgYEAvwX1YIi86ljPTX/ZJ9Gp\n6kuQz9Rxsat2NTBFYn8ayhO+VNsms6QwDALL0jCOLoBlHrUadQsFGelBmKjKLISX\nFUwlNQkWEVS7V0PXTXBbVVZu4E9N+5FTl6k5KoR9d4FMWhyPhjYp+a8rnplLV9HS\nxSFN3lcGnmlZqGabjNSnye4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-0txv6qekz2j46y94rkf2mnjxhf@bubbly-trail-330615.iam.gserviceaccount.com",
+  "client_id": "112426030897141150243",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-0txv6qekz2j46y94rkf2mnjxhf%40bubbly-trail-330615.iam.gserviceaccount.com"
+}
